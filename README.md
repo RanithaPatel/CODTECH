@@ -59,18 +59,3 @@ Finally, the Streamlit application is created using the st.title() function to s
 
 
 
-DATA SCIENCE TASK TWO:
-
-TITANIC SURVIVAL PREDICTION
-Use the Titanic dataset to build a model that predicts whether a
-passenger on the Titanic survived or not. This is a classic
-beginner project with readily available data. . The dataset
-typically used for this project contains information about
-individual passengers, such as their age, gender, ticket class,
-fare, cabin, and whether or not they survived..Additionally,
-Imagine you've been tasked with creating comprehensive
-documentation for a TITANIC SURVIVAL PREDICTION project.
-
-DATASET USED: https://www.kaggle.com/competitions/titanic
-
-
