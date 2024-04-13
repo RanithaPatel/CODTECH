@@ -1,5 +1,7 @@
 # CODTECH
 
+TITLE: CODTECH IT SOLUTIONS INTERNSHIP- TASK DOCUMENTATION: CREDIT CARD FRAUD DETECTION USING ML ALGORITHMS
+
 DATA SCIENCE TASK ONE:
 CREDIT CARD FRAUD DETECTION
 Build a machine learning model to identify fraudulent credit card
@@ -15,6 +17,8 @@ comprehensive documentation for a CREDIT CARD FRAUD DETECTION
 project.
 
 Introduction: 
+NAME: ODDAM RANITHA
+ID: ICOD6614
 
 Credit card fraud is a major concern for both consumers and financial institutions. Fraudulent transactions can lead to financial losses and damage to the reputation of financial institutions. Machine learning techniques have been used extensively to detect fraudulent transactions. In this project, we use logistic regression to classify transactions as either legitimate or fraudulent based on their features.
 
@@ -52,3 +56,21 @@ The code begins with importing necessary libraries such as numpy, pandas, scikit
 The parse_transaction_string() function is defined to parse a comma-separated string of transaction features and convert it into a dictionary with feature names as keys and feature values as values.
 
 Finally, the Streamlit application is created using the st.title() function to set the title, the file_uploader() function to allow the user to upload a CSV file, and the text_input() function to allow the user to input transaction features and get a prediction. The uploaded data is loaded using the load_data() function, and the model is trained and evaluated using the train_model() function. The training and testing accuracies are displayed using the st.write() function, and the user can input transaction features using the text_input() function.
+
+
+
+DATA SCIENCE TASK TWO:
+
+TITANIC SURVIVAL PREDICTION
+Use the Titanic dataset to build a model that predicts whether a
+passenger on the Titanic survived or not. This is a classic
+beginner project with readily available data. . The dataset
+typically used for this project contains information about
+individual passengers, such as their age, gender, ticket class,
+fare, cabin, and whether or not they survived..Additionally,
+Imagine you've been tasked with creating comprehensive
+documentation for a TITANIC SURVIVAL PREDICTION project.
+
+DATASET USED: https://www.kaggle.com/competitions/titanic
+
+
